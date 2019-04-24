@@ -25,3 +25,11 @@ FB:
     provider : disqus
     disqus :
         short_name : thinkhacker
+gitment:
+  enable: true
+  owner: thinkhacker
+  githubID: thinkhacker
+  repo: thinkhacker.github.io
+  ClientID: 27dab2476388097ce2b5
+  ClientSecret: 8b03fd280a66681ba73a07bac04686e41dffc74a
+  lazy: true
