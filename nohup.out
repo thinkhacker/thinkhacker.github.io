@@ -1,0 +1,9 @@
+Configuration file: /Users/it/blogs/thinkhacker-blog/_config.yml
+            Source: /Users/it/blogs/thinkhacker-blog
+       Destination: /Users/it/blogs/thinkhacker-blog/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.816 seconds.
+ Auto-regeneration: enabled for '/Users/it/blogs/thinkhacker-blog'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
