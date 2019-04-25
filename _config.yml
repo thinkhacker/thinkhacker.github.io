@@ -26,7 +26,7 @@ FB:
     disqus :
         short_name : thinkhacker
 gitment:
-  enable: true
+  enable: false
   owner: thinkhacker
   githubID: thinkhacker
   repo: thinkhacker.github.io
