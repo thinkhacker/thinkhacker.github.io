@@ -9,7 +9,11 @@ permalink: /learn/
 # 内容包括
 
 ## 前端编程
-	JavaScript，CSS,Vue....
+- JavaScript
+- CSS
+- Vue
+- ....
+
 ## 后端编程
 - java
 - python
@@ -19,7 +23,7 @@ permalink: /learn/
 # 网盘地址
 
 ```
-
+链接:https://pan.baidu.com/s/1pXoQIcIiee6uRTtgGGbLoA  密码:e2s8
 ```
 
 # 硬盘快递
