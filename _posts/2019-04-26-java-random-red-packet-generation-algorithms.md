@@ -8,9 +8,14 @@ category:
 - 算法研究
 tags: ["红包","聊天APP","红包分配算法","红包实现"]
 ---
+* content
+{:toc}
 
 自行去校验amount与num的值是否有效。  
 
+
+<!-- more -->
+<!-- TOC -->
 ```java
 /**
  * 红包生成算法
